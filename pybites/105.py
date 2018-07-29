@@ -24,21 +24,16 @@ def slice_and_dice(text=text):
        the results list. Make sure the you strip off any trailing
        exclamation marks (!) and dots (.), Return the results list."""
     results = []
-    text = text.strip("\n")
+    text = text.strip()
     for line in text.split("\n"):
         line = line.strip()
-        if line[0].lower() == line[0]:
+        if line[:1] in ascii_lowercase:
             wordlist = line.split(" ")
             lastword = wordlist[len(wordlist) - 1]
-            results.append(lastword.strip('!').strip('.'))
+            lastword = lastword.strip('!')
+            lastword = lastword.strip('.')
+            results.append(lastword)
     return results
 
-string = """
-hello!  
-this is some text!
-This is text
-also some thing.
-Not really!   
 
-"""
-print(slice_and_dice(string))
+print(slice_and_dice(text))
