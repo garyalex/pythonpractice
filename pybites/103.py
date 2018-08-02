@@ -7,6 +7,7 @@ def print_game_stats(games_won=games_won):
        'game' based on number"""
     for person, won in games_won.items():
         word = "game" if won == 1 else "games"
-        print(f'{person} has won {won} {word}') 
+        print(f'{person} has won {won} {word}')
+
 
 print_game_stats()
