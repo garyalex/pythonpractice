@@ -1,0 +1,297 @@
+Country,City,IP Address External,IPv6 Address External
+Australia,Perth,103.9.162.201,
+Australia,Brisbane,103.16.130.114,2404:9400:1:0:216:3eff:fef0:c12b
+Australia,Sydney,112.213.32.133,2404:9400:2:0:216:3eff:fee0:c1ce
+Australia,Sydney,54.253.123.89,
+Australia,Sydney,45.114.116.186 ,2402:2f80:4::5a
+Australia,Sydney,45.76.112.198,
+Australia,Melbourne,223.27.24.156,
+Australia,Sydney,182.160.154.27,
+Australia,Sydney,54.252.99.178,
+Australia,Melbourne,45.124.52.48 ,
+Australia,Melbourne,111.67.17.197,
+Australia,Sydney,54.253.250.52,
+Australia,Melbourne,103.236.162.175,2404:9400:3:0:216:3eff:fee0:9a05
+Austria,Vienna,149.154.152.93,2a03:f80:ed15:149:154:152:93:0
+Austria,Vienna,37.235.56.210,2a03:f80:ed15:37:235:56:210:1
+Belgium,Brussels,31.193.180.147,
+Belgium,Brussels,31.193.181.14,2a03:a800:a1:1952::cb
+Brazil,Sao Paulo,177.71.177.249,
+Brazil,Sao Paulo,148.163.220.12,2607:f740:1::f13
+Brazil,Rio de Janeiro,186.226.60.108,
+Brazil,Sao Paulo,54.232.116.163,
+Brazil,Rio de Janeiro,186.226.56.241,
+Brazil,Rio de Janeiro,186.226.57.44 ,
+Brazil,Sao Paulo,148.163.220.163,
+Brazil,Sao Paulo,177.54.146.183,
+Bulgaria,sofia,79.124.7.245 ,2a01:8740:1:ff22::2
+Canada,Montreal,162.253.54.200,
+Canada,Toronto,23.111.69.169,
+Canada,Toronto,69.87.223.220,
+Canada,Vancouver,23.111.74.105,
+Canada,Toronto,23.111.69.170,
+Canada,Vancouver,67.231.28.126,2607:7b00:3000::19
+Canada,Montreal,72.10.163.154,
+Canada,Toronto,45.58.36.104,
+Canada,Montreal,173.209.44.102,
+Canada,Toronto,159.203.1.147,
+Canada,Vancouver,67.231.28.122,2607:7b00:3000::19
+Canada,Montreal,199.19.214.79,2604:e100:1:0:f816:3eff:fe52:163e
+Canada,Toronto,159.203.37.151,2604:a880:cad:d0::4c2:2001
+Chile,Santiago,192.140.56.150,
+China,Hangzhou City,114.55.3.152 ,
+China,Zhangjiakou,47.92.158.201,
+China,Guangzhou,123.207.67.246,
+China,Huhehaote,39.104.161.26,
+China,Qingdao,120.27.24.218,
+China,Shanghai,139.196.202.229,
+China,Chengdu,118.24.181.219,
+China,Chongqing,118.24.230.165,
+China,Beijing,119.254.34.70,
+China,Shanghai,120.55.164.6,
+China,Shanghai,139.196.199.219,
+China,Shenzhen,39.108.195.216,
+China,Shanghai,122.152.205.52,
+Colombia,Medellin,179.50.12.213,
+Costa Rica,San Jose,138.59.135.23,
+Czech Republic,Prague,130.193.12.189 ,2a03:b780:0001:0000:216:3eff:fe00:7bd
+Denmark,Copenhagen,185.134.29.181 ,2a06:eac0:537::9
+Denmark,Copenhagen,82.103.140.78,
+Finland,Helsinki,185.117.118.126,2a02:2808:5401:0:1447:27ff:fead:8923
+France,Paris,45.32.144.240,2001:19f0:6800:10a5:5400:00ff:fe1d:6ebb
+France,Strasbourg,213.32.55.210,
+France,Strasbourg,51.254.124.182,2001:41d0:401:3100:0000:0000:0000:488f
+France,Paris,108.61.209.12,2001:19f0:6801:d4:5400:00ff:fe3c:3aed
+France,Strasbourg,176.28.13.209,
+Germany,Munich,5.189.164.222,
+Germany,Frankfurt,94.237.81.16,
+Germany,Munich,5.189.150.43,
+Germany,Frankfurt,172.104.137.31 ,
+Germany,Munich,173.212.227.39 ,
+Germany,Munich,173.212.219.87,
+Germany,Frankfurt,104.207.130.121,2001:19f0:6c00:9b25:5400:ff:fe25:62c9
+Germany,Munich,5.189.131.209,2a02:c200:1:10:2:6:4353:1
+Germany,Falkenstein,176.9.204.27,
+Germany,Falkenstein,78.46.129.157,2a01:4f8:1c17:4027::/64
+Germany,Frankfurt,139.162.187.173,2a01:7e01::f03c:91ff:fea1:46ac
+Greece,Athens,78.108.38.106 ,2001:1548:8001:1::1
+Hong Kong,Hong Kong,103.200.6.77,
+Hong kong,Hong kong,119.81.237.99,
+Hong kong,Hong kong,119.81.237.98,2401:c900:1201:1a2::3
+Hungary,Budapest,91.219.236.236,2001:4c48:2:8400::5bdb:ecec
+India,Chennai,121.244.91.46,
+India,Chennai,103.6.87.115,2403:2500:4000::1
+India,Mumbai,180.149.241.212,
+India,Bengaluru,139.59.12.64,2400:6180:100:d0::e:3001
+India,Mumbai,52.66.168.144,
+Indonesia,Jakarta,103.200.7.12,2402:2f80:6::3
+Ireland,"Dublin, Ireland",79.125.119.192,
+Ireland,"Dublin, Ireland",217.78.6.89,2a01:258:f000:6::10a
+Ireland,"Dublin, Ireland",217.78.0.115,
+Ireland,Dublin,87.252.215.28,
+Ireland,Dublin,217.112.154.222,
+Ireland,Dublin,217.78.0.191,
+Israel,Tel Aviv,91.228.126.149,
+Italy,Milano,95.141.37.20,2a02:29e0:1:110::0000
+Italy,Milano,158.58.170.74,
+Japan,Nagano,119.82.28.190,
+Japan,Tokyo,54.248.99.81,
+Japan,Tokyo,45.32.254.120 ,2001:19f0:7000:8322:5400:00ff:fe24:18ff
+Japan,Tokyo,54.249.235.161,
+Japan,Nagano,119.82.29.196,
+Japan,Tokyo,45.32.34.216,2001:19f0:7001:3865:5400:01ff:fe5f:2a07
+Luxembourg,Luxembourg City,94.242.246.57 ,2a01:608:ffff:ff07::2:2
+Malaysia,Kuala Lumpur,103.47.154.109,
+Malaysia,Kuala Lumpur,103.47.154.202,
+Mexico,Querétaro,169.57.14.116,
+Mexico,Querétaro,169.57.14.125,
+Mexico,Querétaro,169.57.14.126 ,
+Netherlands,Amsterdam,82.196.8.112,
+Netherlands,Amsterdam,185.20.209.150,
+Netherlands,Amsterdam,188.166.3.204,
+Netherlands,Amsterdam,31.186.226.150,
+Netherlands,Amsterdam,178.62.238.39 ,2a03:b0c0:2:d0::13da:2001
+New Zealand,Auckland,120.138.27.125,
+New Zealand,Auckland,223.165.76.196,
+New Zealand,Auckland,120.138.30.84,2403:7000:8000:700::83
+New Zealand,Auckland,223.165.76.47 ,
+Norway,Oslo,217.170.207.93,
+Philippines,Manila,116.93.97.116,
+Poland,Warsaw,37.235.48.47,2a03:f80:48:37:235:48:47:1
+Poland,Warsaw,212.7.217.23,2a01:6e80:fffe::1:0
+Portugal,Lisbon,94.46.160.215,2a00:1650:1000::5eff:fe2e:a0d7
+Romania,Bucharest,77.81.104.105,2A04:9DC0:00C1:0007:0000:0000:08b6:4116
+Romania,Bucharest,194.68.44.228,
+Romania,Bucharest,31.215.205.205,
+Russia,Moscow,80.87.196.114,2a01:230:2:6::12d5
+Russia,Moscow,82.146.54.128,
+Russia,Saint Petersburg,77.73.69.144 ,2a00:1838:37:22b::dea6
+Saudi Arabia,Riyadh,46.151.215.91 ,2a05:78c0:0:2::2D
+Saudi Arabia,Riyadh,46.151.215.109,2a05:78c0:0:2::c2
+"Scotland, UK",Edinburgh,82.113.131.198 ,
+"Scotland, UK",Edinburgh,82.113.131.197,2a03:4500:8001:2::4
+Singapore,Singapore,139.162.14.50,2400:8901::f03c:91ff:fee4:0e37
+Singapore,Singapore,94.237.64.172,
+Singapore,Singapore,139.162.59.38,
+Singapore,Singapore,175.41.141.147,
+South Africa,Johannesburg,154.66.198.59 ,
+South Africa,Johannesburg,154.66.197.14,2c0f:f850:154:197::14
+South Korea,Seoul,52.78.86.95,
+Spain,Madrid,5.134.117.149,2a03:c7c0:1:11b::8c7b
+Spain,Barcelona,191.96.102.6 ,2a04:b880:0:2::b94d:bd97
+Spain,Barcelona,182.54.235.47,
+Spain,Barcelona,46.183.118.235 ,
+Spain,Barcelona,46.183.117.164,
+Sweden,Stockholm,185.217.0.140,
+Sweden,Stockholm,79.99.1.106,2a02:750:7::52f
+Sweden,Stockholm,79.99.0.185,2a02:750:7::b6
+Sweden,Stockholm,185.217.0.213,
+Switzerland,Zurich,37.235.50.96,
+Switzerland,Zurich,81.17.19.74 ,
+Switzerland,Zurich,178.209.40.103,
+Switzerland,Zurich,179.43.191.26,2a02:29b8:abcd:3704::2
+Thailand,Bangkok,43.230.27.46 ,2407:8100:2:4::2
+Turkey,Istanbul,185.153.248.168,
+UK,London,213.219.39.144,2a01:7e00::f03c:91ff:fe98:d84
+UK,London,176.58.98.218,
+UK,London,5.77.35.99,2001:1b40:5000:4::10
+UK,London,206.189.126.148,2a03:b0c0:1:e0::259:b001
+UK,London,83.136.248.38,
+UK,London,94.237.49.101,2a04:3541:1000:500:ecb3:3eff:fef0:344b
+UK,London,5.77.40.196,2001:1b40:5000:2::9
+UK,London,104.238.186.171,
+UK,London,185.3.95.86,
+UK,Manchester,77.81.107.72,2001:0ac8:0021:0008:0000:0000:11e4:7e9a
+UK,London,83.136.252.90,
+Ukraine,Kiev,185.167.161.11 ,
+United Arab Emirates,Dubai,47.91.105.8,
+United Arab Emirates,Dubai,185.56.90.140 ,
+US,Washington DC,216.189.157.216,
+US,Fremont-CA,74.207.251.164 ,
+US,Kansas,198.204.248.186,
+US,Dallas,104.245.35.232,
+US,New York,104.236.114.81,2604:a880:800:10::18b:3001
+US,Virginia,184.73.189.166,
+US,Detroit,173.249.159.5,
+US,Atlanta,45.79.199.86,
+US,Dallas,104.140.107.17,2607:ff28:2:11::4d47:57c5
+US,Dallas,45.33.117.219,2600:3c00::f03c:91ff:fef1:556d
+US,Dallas,45.79.2.230,2600:3c00::f03c:91ff:fee0:f1a7
+US,New York,162.243.75.49,2604:a880:0:1010::119a:6001
+US,New York,162.243.55.64,2604:a880:0:1010::40:b001
+US,Seattle,45.32.229.88,2001:19f0:8000:8b0a:5400:00ff:fe1e:1de7
+US,Washington DC,173.193.201.67,
+US,Chicago,209.50.53.228,
+US,Portland,162.210.173.201,2604:b480:ffff:ffff:fa13::1
+US,Fremont-CA,159.203.200.222,
+US,Seattle,104.140.20.131 ,
+US,New York,209.97.148.121,
+US,Los Angeles,162.254.116.12,
+US,Washington DC,103.11.65.66,
+US,Salt Lake City,185.72.156.40,2a05:3b00:2::4:4
+US,Fremont-CA,104.238.181.138,
+US,New York,192.241.185.113,
+US,Tampa, 154.16.245.251 ,
+US,Fremont-CA,104.207.150.184,
+US,Virginia,174.129.225.90,
+US,Dallas,8.40.222.226,
+US,Los Angeles,108.61.206.96,
+US,Virginia,207.244.97.125 ,
+US,Dallas,65.154.166.0/24,
+US,Dallas,45.79.7.124,
+US,Chicago,209.50.49.76,
+US,Atlanta,108.61.192.146,
+US,New Jersey,45.76.0.57,2001:19f0:5:38a:5400:00ff:fe39:d62b
+US,Dallas,204.141.42.0/23,
+US,Dallas,45.56.75.144,
+US,Atlanta,45.79.213.84,
+US,New York,45.58.34.212,
+US,Virginia,207.244.105.239 ,
+US,Chicago,108.61.203.16,
+US,Washington DC,162.213.36.181,
+US,New Jersey,198.74.56.175,2600:3c03::f03c:91ff:fe16:3dc9
+US,Los Angeles,108.61.217.92,2001:19f0:6001:e3:5400:00ff:fe2b:46d9 
+US,Washington DC,162.213.36.11,
+US,New Jersey,45.33.65.221,2600:3c03::f03c:91ff:fe16:6d17
+US,Fremont-CA,72.5.230.65,
+US,Los Angeles,107.172.209.251,
+US,Denver,104.219.169.152,2606:1880:5:383::e6d5
+US,Dallas,204.141.32.226,
+US,Fremont-CA,165.254.168.111,
+US,Dallas,45.33.0.252,
+US,Los Angeles,107.172.55.204,
+US,Virginia,207.244.104.199 ,
+US,Seattle,45.32.225.170,
+US,Dallas,8.45.169.0/24,
+US,San Francisco,104.236.141.173,2604:a880:1:20::27f:3001
+US,Virginia,54.197.228.117,
+US,Denver,104.219.169.17,
+US,San Francisco,138.68.233.195,
+US,Denver,104.219.169.168,
+US,Phoenix,50.3.30.119,
+US,Denver,104.219.169.160,
+US,New York,104.140.246.165,
+US,Atlanta,50.116.38.61,2600:3c02::f03c:91ff:fe79:5bdb
+US,Fremont-CA,45.63.88.36,
+US,Seattle,104.140.20.235,2607:ff28:a005:4::7c15:4a2b
+US,Dallas,104.206.223.21,2607:ff28:2:11::d49d:3e85
+US,Fremont-CA,192.81.129.136,
+US,Phoenix,184.95.56.8,
+US,Phoenix,173.213.96.152,2607:ff28:1:7::32f1:5e93
+US,Fremont-CA,96.126.102.94,
+US,Miami,104.156.247.194,2001:19f0:9000:86a2:5400:00ff:fe24:15c0
+US,Washington DC,104.36.18.45 ,
+US,Los Angeles,204.152.208.71,2607:fcd0:10e:1f::2
+US,Houston,216.230.231.142 ,
+US,Fremont-CA,45.33.33.28,
+US,Virginia,198.7.63.217 ,
+US,Virginia,207.244.104.49,
+US,New York,104.236.53.140,
+US,Virginia,207.244.103.237,
+US,Houston,66.187.76.125,2604:e880:0:9::6019:737a
+US,Washington DC,169.61.69.29 ,
+US,Fremont-CA,45.63.84.88 ,
+US,New Jersey,45.63.10.251,
+US,New Jersey,198.74.62.39,
+US,Phoenix,50.2.81.144 ,
+US,New York,104.236.16.22,2604:a880:800:10::18b:c001
+US,Las Vegas,5.226.169.82,
+US,Miami,199.201.88.82,
+US,New York,192.241.175.194 ,2604:a880:0:1010::68:7001/64
+US,Detroit,173.249.152.22,
+US,New York,192.34.60.107,2604:a880:400:d0::86:d001
+US,Washington DC,162.213.37.53,
+US,Denver,192.73.242.23,2607:f740:16::33a
+US,New York,104.140.247.140 ,
+US,Fremont-CA,45.55.24.175,
+US,Chicago,104.207.142.102,2001:19f0:5c00:952d:5400:ff:fe12:8612
+US,Kansas,198.204.227.50,2604:4300:a:62:b699:baff:feb1:6cbd
+US,Chicago,209.50.50.39,
+US,Chicago,173.232.228.20 ,2607:ff28:9005:1::fd2d:2ed8
+US,Fremont-CA,45.63.93.3,
+US,Los Angeles,172.106.33.118,2602:ffc5:50::1:5072
+US,Houston,162.218.229.234,2604:e880:0:18:ec4:7aff:fe0d:c1b5
+US,Virginia,75.101.151.107,
+US,Virginia,207.244.104.233,
+US,New York,198.211.100.169,
+US,Dallas,216.52.72.226,
+US,Philadelphia,76.8.60.8,2604:bf00:210:4e::2
+US,Fremont-CA,104.238.181.78,
+US,Boston,192.34.85.134,2602:ff65:0:99::5815:60cf
+US,Fremont-CA,45.63.87.133,
+US,Fremont-CA,45.79.67.12 ,
+US,Fremont-CA,138.68.2.184 ,
+US,Fremont-CA,45.79.102.189,
+US,Fremont-CA,45.33.110.8 ,
+US,Detroit,104.244.211.30,2620:11f:7000:f::2
+US,Detroit,104.244.209.20,
+US,Fremont-CA,45.79.71.211,
+US,Fremont-CA,45.79.98.201,
+US,Fremont-CA,72.5.230.111,
+US,Detroit,72.44.88.41,
+US,Fremont-CA,173.255.252.4,
+US,Fremont-CA,45.63.84.131,
+US,Virginia,207.244.112.213,
+US,Las Vegas,216.108.226.70,
+US,Miami,45.63.106.106 ,
+Vietnam,Hanoi,125.212.234.37,
